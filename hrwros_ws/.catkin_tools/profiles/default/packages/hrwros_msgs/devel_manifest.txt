@@ -1,4 +1,4 @@
-hrwros_week1_v09/hrwros/hrwros_msgs
+hrwros/hrwros_msgs
 /home/uguz/hrwros_ws/devel/.private/hrwros_msgs/cmake.lock /home/uguz/hrwros_ws/devel/./cmake.lock
 /home/uguz/hrwros_ws/devel/.private/hrwros_msgs/lib/python2.7/dist-packages/hrwros_msgs/__init__.py /home/uguz/hrwros_ws/devel/lib/python2.7/dist-packages/hrwros_msgs/__init__.py
 /home/uguz/hrwros_ws/devel/.private/hrwros_msgs/lib/python2.7/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionFeedback.py /home/uguz/hrwros_ws/devel/lib/python2.7/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionFeedback.py

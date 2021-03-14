@@ -1,4 +1,4 @@
-hrwros_week3_v09/hrwros_gazebo
+hrwros_gazebo
 /home/uguz/hrwros_ws/devel/.private/hrwros_gazebo/cmake.lock /home/uguz/hrwros_ws/devel/./cmake.lock
 /home/uguz/hrwros_ws/devel/.private/hrwros_gazebo/lib/libROSLogicalCameraPlugin.so /home/uguz/hrwros_ws/devel/lib/libROSLogicalCameraPlugin.so
 /home/uguz/hrwros_ws/devel/.private/hrwros_gazebo/lib/libROSProximityRayPlugin.so /home/uguz/hrwros_ws/devel/lib/libROSProximityRayPlugin.so

@@ -1,4 +1,4 @@
-hrwros_week3_v09/hrwros_support
+hrwros_support
 /home/uguz/hrwros_ws/devel/.private/hrwros_support/cmake.lock /home/uguz/hrwros_ws/devel/./cmake.lock
 /home/uguz/hrwros_ws/devel/.private/hrwros_support/lib/pkgconfig/hrwros_support.pc /home/uguz/hrwros_ws/devel/lib/pkgconfig/hrwros_support.pc
 /home/uguz/hrwros_ws/devel/.private/hrwros_support/share/hrwros_support/cmake/hrwros_supportConfig-version.cmake /home/uguz/hrwros_ws/devel/share/hrwros_support/cmake/hrwros_supportConfig-version.cmake
